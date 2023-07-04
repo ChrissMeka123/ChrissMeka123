@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+body{background-color:black;
+     }
+
+.hero-banner {box-sizing: border-box;
+  position: relative;
+  text-align: center;
+  color: white;
+font-size: 500px ;
+}
+
+h1{ font: 100px;}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+nav{ background-color: #ddd;
+  }
+    
